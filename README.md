@@ -63,9 +63,5 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 - [Your Name](https://github.com/wadhwashivam)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 Enjoy using the calculator and feel free to reach out if you have any questions or feedback!
