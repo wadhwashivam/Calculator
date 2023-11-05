@@ -5,7 +5,7 @@ Welcome to the Calculator project! This is a simple and functional calculator th
 
 ## Live Demo
 
-You can try the calculator by visiting the [Live Demo](https://your-username.github.io/calculator/) here.
+You can try the calculator by visiting the [Live Demo]([https://wadhwashivam.github.io/Calculator/]) here.
 
 ## Features
 
