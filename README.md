@@ -23,7 +23,7 @@ To use this calculator, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/wadhwashivam/Calculator.git
    ```
 
 2. Open the project in your preferred code editor.
